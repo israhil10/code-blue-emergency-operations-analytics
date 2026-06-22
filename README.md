@@ -209,6 +209,9 @@ code-blue-emergency-operations-analytics
 🔗 LinkedIn  
 https://www.linkedin.com/in/mohd-israhil-shaikh-3b8b04281/
 
+📧 **Email**  
+mohdisrahils@gmail.com
+
 🌐 Portfolio  
 https://shaikh-israhil-eqci8dy.gamma.site/
 
