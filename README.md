@@ -63,6 +63,47 @@ Without effective analytics, healthcare leaders struggle to identify bottlenecks
 - Interactive Dashboard Development
 - KPI Design
 - Data Modeling
+---
+
+# Data Model
+
+The dashboard was built using a **star schema architecture**, enabling efficient filtering, optimized DAX calculations, and better report performance.
+
+## Model Design
+
+### Fact Table
+
+- Emergency Operations Metrics
+- Patient Flow Metrics
+- Workforce Metrics
+
+### Dimension Tables
+
+- Date
+- Hospital
+- Region
+- Diagnosis Category
+- Severity Level
+
+This design ensures:
+
+✔ Efficient data modeling
+
+✔ Faster report performance
+
+✔ Simplified DAX calculations
+
+✔ Better scalability
+
+## Star Schema Diagram
+
+<p align="center">
+
+<img src="dashboard%20images/Star%20Schema.png" width="900">
+
+</p>
+
+---
 
 ### Power Query
 
