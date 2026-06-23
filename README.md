@@ -212,6 +212,9 @@ https://www.linkedin.com/in/mohd-israhil-shaikh-3b8b04281/
 📧 **Email**  
 mohdisrahils@gmail.com
 
+🔗 **Power BI Service Dashboard**
+https://app.powerbi.com/groups/me/reports/c3985317-3313-4174-bb6a-b2e8de93e41a/ad2cd2423b58663060e9?experience=power-bi
+
 💻 GitHub  
 https://github.com/israhil10
 
