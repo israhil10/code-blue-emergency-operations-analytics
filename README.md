@@ -13,6 +13,7 @@
 - 🚑 [Business Problem](#business-problem)
 - 🎯 [Objectives](#objectives)
 - 🛠️ [Tools & Technologies](#tools--technologies)
+-  ⭐ [Data Model](#data-model)
 - 🏥 [Dashboard Overview](#dashboard-overview)
 - 📈 [Key Insights](#key-insights)
 - 💼 [Business Impact](#business-impact)
